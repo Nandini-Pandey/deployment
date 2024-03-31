@@ -27,5 +27,3 @@ def game():
 def resource():
     return render_template("indexr.html")
 
-if __name__=="__main__":
-    app.run(debug=True)
