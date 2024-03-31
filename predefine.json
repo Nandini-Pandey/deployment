@@ -1,0 +1,91 @@
+{
+    "predefine": [
+      {
+        "tag": "greeting",
+        "patterns": ["hi", "hello", "hey", "Is anyone there?", "Holla!", "Yo!"],
+        "responses": ["Hello!", "Hi there!", "Hey! How can I help you today?"]
+      },
+      {
+        "tag": "name",
+        "patterns": ["what is your name?", "who are you?","How can you help me?"],
+        "responses": ["You can call me TeenBot/Teenie. I can address your doubts related to mental health.", "I'm TeenBot, nice to meet you! I can address your doubts related to mental health. If you are feeling down you can chat with me"]
+      },
+      {
+        "tag": "how_are_you",
+        "patterns": ["how are you?", "how are you feeling?"],
+        "responses": ["I'm just a bot, but thanks for asking! I am good. How are you?", "I don't have feelings like humans do, but thanks for asking i'm good. How are you?"]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": ["bye", "goodbye", "see you later"],
+        "responses": ["Bye! Take care.", "Goodbye. Feel free to chat with me anytime."]
+      },
+      {
+        "tag": "stress_coping",
+        "patterns": ["how can I cope with stress?", "tips to manage stress","What is stress?"],
+        "responses": ["Stress is a natural physiological and psychological response that occurs when individuals encounter demands or pressures that exceed their ability to cope effectively. It can result from various sources, including work, relationships, financial issues, health problems, or major life changes.Taking breaks, deep breathing, and talking to someone you trust can help manage stress.", "Engage in activities like exercise, meditation, or hobbies to reduce stress levels."]
+      },
+      {
+        "tag": "depression",
+        "patterns": ["What is depression?","I feel sad all the time", "How can I deal with depression?", "Whom to seek help for if i feel sad all the time?"],
+        "responses": ["Depression is a common and serious mental health condition characterized by persistent feelings of sadness, hopelessness, and loss of interest or pleasure in activities. It can affect how you think, feel, and handle daily activities, leading to a variety of emotional and physical symptoms.It's important to talk to someone you trust and seek professional help if you're feeling sad/depressed. Remember that it's okay to ask for help. You're not alone."]
+      },
+      {
+        "tag": "anxiety",
+        "patterns": ["I'm always anxious", "How do I cope with anxiety?"],
+        "responses": ["Anxiety can be caused by a combination of genetic predisposition, brain chemistry imbalances, stressful life events, personality traits, medical conditions, substance abuse, trauma, and environmental factors. Practice relaxation techniques like deep breathing and mindfulness to manage anxiety.Challenge negative thoughts and focus on things you can control to reduce anxiety levels."]
+      },
+      {
+        "tag": "peer_pressure",
+        "patterns": ["how to handle peer pressure?","how to deal with peer pressure?"],
+        "responses": ["Peer pressure can come in different forms, such as pressure to fit in, to try drugs, or to engage in risky behaviors. It's important to stay true to yourself and make decisions that align with your values and goals.", "Surround yourself with supportive friends who respect your choices and values, and don't be afraid to say no if something doesn't feel right."]
+      },
+      {
+        "tag": "body_image",
+        "patterns": ["I'm not happy with my body", "How to improve body image?"],
+        "responses": ["Remember that beauty comes in all shapes and sizes. Focus on what your body can do rather than how it looks. Practice self-care and surround yourself with positive influences that celebrate diversity and self-acceptance."]
+      },
+      {
+        "tag": "self_esteem",
+        "patterns": ["I don't feel good about myself", "How to boost self-esteem?"],
+        "responses": ["Celebrate your strengths and accomplishments, and practice self-compassion. Remember to treat yourself with kindness and understanding, set small achievable goals, spend time with those who uplift you, do activities that bring you joy, challenge negative self-talk with positive affirmations, and consider reaching out to a therapist for guidance and support on your journey to feeling better about yourself. You're deserving of love and acceptance just as you are."]
+      },
+      {
+        "tag": "bullying",
+        "patterns": ["I'm being bullied", "How to deal with bullies?"],
+        "responses": ["It's essential to speak up and seek help if you're being bullied. Talk to a trusted adult, such as a teacher or parent, and don't suffer in silence. Remember that you're not alone, and there are people who care about you and want to help.", "If you're being bullied, remember that you're not alone. Reach out to someone you trust for support and understanding. It's okay to set boundaries and stand up for yourself calmly, but also know that it's not your responsibility to handle this alone. Take care of yourself by doing things you enjoy and surrounding yourself with positive influences. You deserve to feel safe and respected, and there are people who care about you and want to help."]
+      },
+      {
+        "tag": "eating_disorders",
+        "patterns": ["Do I have an eating disorder?", "Signs of eating disorders"],
+        "responses": ["Eating disorders like anorexia, bulimia, and binge eating disorder are serious mental health conditions that require professional help. Signs include obsessive thoughts about food, extreme weight changes, and unhealthy eating habits. If you're concerned about your eating habits, it's essential to talk to a doctor or mental health professional."]
+      },
+      {
+        "tag": "self_harm",
+        "patterns": ["I'm thinking of self-harm", "How to stop self-harming?", "Why do i always resort to self harm whenever I fail to achieve something I worked hard for?"],
+        "responses": ["Self-harm is a coping mechanism for dealing with emotional pain, but it's not a healthy or sustainable solution. Reach out to a trusted adult or mental health professional for support. Remember that you deserve help and support to overcome your struggles."]
+      },
+      {
+        "tag": "ocd",
+        "patterns": ["Do I have OCD?", "What are the symptoms of OCD?"],
+        "responses": ["Obsessive-Compulsive Disorder (OCD) is a mental health condition characterized by obsessive thoughts and compulsive behaviors. Common symptoms include intrusive thoughts, repetitive behaviors, and feelings of anxiety or distress. If you're concerned that you may have OCD, it's essential to talk to a mental health professional for an evaluation and appropriate support."]
+      },
+
+      {
+        "tag": "jokes",
+        "patterns": ["tell me a joke", "I need a laugh", "make me laugh","funny"],
+        "responses": ["Sure, here's a joke: Why don't skeletons fight each other? They don't have the guts!", "How about this one: Why did the scarecrow win an award? Because he was outstanding in his field!","Hope you like this one: Why don't scientists trust atoms? Because they make up everything! :)"]
+      },
+      {
+        "tag": "thank",
+        "patterns": ["it helped, thanks", "thank you so much", "it was helpful, i am grateful"],
+        "responses": ["Glad i was of help! Feel free to chat anytime."]
+      }
+
+      
+      
+      
+      
+    ] 
+  }
+  
