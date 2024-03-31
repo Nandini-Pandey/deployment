@@ -51,7 +51,7 @@ MindPal provides a user-friendly interface where teens can navigate different se
 
 ## Installation and Setup
 
-1. Clone the repository: `git clone https://github.com/Nandini-Pandey/deployment.git`
+1. Clone the repository: `git clone https://github.com/Nandini-Pandey/npm-MindPal.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the Flask app: `python app.py`
 4. Access the application via the provided URL in your web browser.
