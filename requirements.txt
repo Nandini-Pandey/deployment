@@ -1,2 +1,11 @@
 Flask
 Gunicorn
+torch==2.2.2
+nltk==3.8.1
+numpy==1.21.6
+filelock
+fsspec
+jinja2
+networkx
+sympy
+typing-extensions
