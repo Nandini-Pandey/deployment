@@ -56,4 +56,9 @@ MindPal provides a user-friendly interface where teens can navigate different se
 3. Run the Flask app: `python app.py`
 4. Access the application via the provided URL in your web browser.
 
+## Demo 
+Video link : https://www.youtube.com/watch?v=7R5drnxY0hA
+Live Site : https://mind-pal-q9d2.onrender.com/
+
+
 
