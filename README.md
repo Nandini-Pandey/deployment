@@ -58,7 +58,6 @@ MindPal provides a user-friendly interface where teens can navigate different se
 
 ## Demo 
 1. Video link : https://www.youtube.com/watch?v=7R5drnxY0hA
-2. Live Site : https://mind-pal-q9d2.onrender.com/
 
 
 
